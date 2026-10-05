@@ -1,0 +1,18 @@
+
+# =====================================================================
+# Dependencias del Proyecto: Sprint de Data Science (NumPy)
+# =====================================================================
+
+# Computación numérica y manipulación de arreglos multidimensionales
+numpy&gt;=1.24.0
+
+# Visualización gráfica y generación de tableros
+matplotlib&gt;=3.7.0
+
+# Análisis de datos y estructuras tabulares (DataFrames)
+pandas&gt;=2.0.0
+
+# Entorno de ejecución interactivo de Jupyter
+jupyter&gt;=1.0.0
+notebook&gt;=6.5.0
+ipykernel&gt;=6.20.0
