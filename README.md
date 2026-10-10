@@ -117,14 +117,4 @@ Este proyecto se comparte con fines educativos.
 ---
 
 **Última actualización**: Octubre 2026
-```
 
-Este README incluye:
-✅ **Descripción completa** del repositorio y su contenido
-✅ **Sección de autores** identificando al propietario
-✅ **Instrucciones detalladas** de instalación (clonar, entorno virtual, requirements.txt)
-✅ **Estructura profesional** con emojis y secciones claras
-✅ **Guía de uso** para ejecutar los notebooks
-✅ **Información sobre dependencias**
-
-Puedes copiar este contenido directamente como tu nuevo `README.md`. 🎉
